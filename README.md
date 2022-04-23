@@ -37,9 +37,10 @@ The reason behind choosing this dataset are:
 * 6 out of 16 are categorical: [ 'name', 'host_name', 'neighbourhood_group' 'neighbourhood','room_type','minimum_nights', 'last_review']
 
 
-Handling Null values: Columns like reviews_per_month has 10052 missing value or can say that null values. It is very important feature for data analysis. On other hand columns like name, last review also has missing values but we can drop it from dataset
+# Handling Null values: 
+Columns like reviews_per_month has 10052 missing value or can say that null values. It is very important feature for data analysis. On other hand columns like name, last review also has missing values but we can drop it from dataset
 
-Lokking for outliers
+# Lokking for outliers
 
 # Conclusion
 
